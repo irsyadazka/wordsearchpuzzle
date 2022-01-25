@@ -414,6 +414,7 @@ int main() {
                     }
                 }
             }
+            count++;
         }
     }
     clock_t onfinish = clock();
